@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+E:\Fall2019\CPSC481_-Majeks--Currency\Code\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3677083128.index
+2703016282.index
+1795827416.index
+1079929708.index
